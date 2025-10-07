@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello good people, I'am Irvan, my hobbies are cooking and swimming...
+Hello good people, I'am Irvan, my hobby cooking and swimming...
 
 <!--
 **irvanmuda2-ath/irvanmuda2-ath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
